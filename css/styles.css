@@ -56,5 +56,11 @@ body {
   background-color: #D0BB78;
 }
 .bg-gold {
-  background-color: #D0BB78;
+  background-color: #D0BB78 !important;
 }
+.bg-light-rose {
+  background-color: #D0C9CB;
+  padding: 15px;
+  border-radius: 8px;
+}
+
