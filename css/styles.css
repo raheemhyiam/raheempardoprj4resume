@@ -67,4 +67,8 @@ body {
 .name-font {
   font-family: 'Oswald', sans-serif;
 }
+.header-style {
+  font-family: 'Oswald', sans-serif;
+  color: #251608; /* dark brown */
+}
 
