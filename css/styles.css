@@ -63,4 +63,8 @@ body {
   padding: 15px;
   border-radius: 8px;
 }
+/* Custom font for Raheem Pardo */
+.name-font {
+  font-family: 'Oswald', sans-serif;
+}
 
